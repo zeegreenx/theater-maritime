@@ -1,8 +1,8 @@
 <template>
   <div>
-    <NuxtLayout>
-      <NuxtPage />  
+   
+      <NuxtPage>  
       <div id="">Hello  world</div>
-    </NuxtLayout>
+      </NuxtPage>        
   </div>
 </template>
